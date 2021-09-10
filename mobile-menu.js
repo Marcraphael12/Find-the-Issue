@@ -14,11 +14,11 @@ cross.classList.add('closing-button');
 cross.innerHTML = '&times;';
 
 function removed(e) {
-  e.style.display = 'none';
+  // e.style.display = 'none';
 }
 
 function displayed(e) {
-  e.style.display = 'initial';
+  // e.style.display = 'initial';
 }
 
 /** ********* The opening function ************** */
