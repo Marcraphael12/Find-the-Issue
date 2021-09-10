@@ -532,17 +532,17 @@ form div {
   }
 
   form div {
-    justify-content: space-between;
+    /* justify-content: space-between; */
   }
 }
 
 @media screen and (min-width: 992px) {
   .btn {
-    display: none ;
+    /* display: none !important; */
   }
 
   .dsk-btn {
-    display: flex;
+    /* display: flex; */
   }
 
   .titles h1 {
