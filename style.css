@@ -532,29 +532,17 @@ form div {
   }
 
   form div {
-<<<<<<< HEAD
-    /* justify-content: space-between; */
-=======
     justify-content: space-between;
->>>>>>> ce16687 (Initial commit)
   }
 }
 
 @media screen and (min-width: 992px) {
   .btn {
-<<<<<<< HEAD
-    /* display: none !important; */
-  }
-
-  .dsk-btn {
-    /* display: flex; */
-=======
-    display: none;
+    display: none !important;
   }
 
   .dsk-btn {
     display: flex;
->>>>>>> ce16687 (Initial commit)
   }
 
   .titles h1 {
