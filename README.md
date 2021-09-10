@@ -41,7 +41,7 @@ To get a local copy up and running follow these simple example steps.
 
 ## Live Demo
 
-[Have a detailed view by clicking here](https://marcraphael12.github.io/Marc-New-Portofolio/)
+[Have a detailed view by clicking here](https://marcraphael12.github.io/Find-the-Issue/)
 
 ### Author
 👤 **Marc Raphael**
